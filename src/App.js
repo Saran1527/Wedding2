@@ -4,7 +4,6 @@ import {
   FaHeart,
   FaGlassCheers,
   FaMapMarkerAlt,
-  FaCameraRetro,
 } from "react-icons/fa";
 import { GiDiamondRing } from "react-icons/gi";
 
