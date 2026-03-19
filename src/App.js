@@ -150,11 +150,11 @@ function App() {
         </p>
         <p className="slide-in-left delay-2">
           💒 <FaHeart /> Marriage Ceremony 💒 <br />
-          <strong>1st December 2026 • 6:00 AM – 7:30 AM</strong>
+          <strong>06 April 2026 • 6:00 AM – 7:30 AM</strong>
         </p>
         <p className="slide-in-right delay-3">
           🎉 <FaGlassCheers /> Wedding Reception 🎉 <br />
-          <strong>1st December 2026 • 7:00 PM</strong>
+          <strong>06 April 2026 • 7:00 PM</strong>
         </p>
         <p className="tagline slide-in-left delay-4">
           ❤️ Make the moment special with us ❤️
@@ -187,9 +187,6 @@ function App() {
 
       {/* Couple Section */}
       <section className="couple reveal">
-        <div className="left">
-          <img src="/images/Wedding_image.png" alt="R. Krishnaraj & N. Surya" className="couple-img" />
-        </div>
         <div className="right">
           <h4>
             Krishnaraj ❤️ Surya
