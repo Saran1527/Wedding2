@@ -646,3 +646,8 @@ section {
     padding: 25px 15px;
   }
 }
+@media (max-width: 320px) {
+  .venue-item {
+    width: 88%;
+  }
+}
