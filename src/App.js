@@ -212,7 +212,6 @@ function App() {
                 <p style={{ margin: "5px 0", fontSize: "1.1rem", color: "var(--text-color)" }}><strong>Mr.V. Ravichandran Naidu<br />&<br />Mrs. Thangam</strong></p>
                 <p style={{ margin: "25px 0 5px 0", fontSize: "0.95rem", fontStyle: "italic", color: "var(--text-light)" }}>Proud parents of the Groom</p>
                 <h4 style={{ color: "var(--primary-color)", fontSize: "1.4rem", fontWeight: "bold", margin: "10px 0", fontFamily: "var(--font-heading)" }}>R. Krishnaraj (a) Mukesh<br /><span style={{ fontSize: "1rem" }}>B.Tech., (EEE)</span></h4>
-                <p style={{ margin: "5px 0", fontSize: "0.85rem", color: "var(--text-light)" }}>(Caterpillar India Pvt Limited., Thiruvallur)</p>
               </div>
 
               {/* Bride's Detail */}
